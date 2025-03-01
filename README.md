@@ -1,6 +1,6 @@
 # XSS Vulnerability Scanner
 
-![Banner](https://via.placeholder.com/800x200.png?text=XSS+Vulnerability+Scanner)
+![Banner](https://github.com/mahaveer-choudhary/xss-scanner/blob/main/images/img1.png)
 
 A Python-based tool to detect Cross-Site Scripting (XSS) Vulnerabilities in web applications. This tool uses Selenium to automate the process of injecting payloads into URLs and checking for potential XSS vulnerabilities.
 
