@@ -1,0 +1,6 @@
+# Core dependencies
+selenium==4.9.1
+webdriver-manager==3.8.6
+prompt-toolkit==3.0.39
+colorama==0.4.6
+rich==13.4.2
