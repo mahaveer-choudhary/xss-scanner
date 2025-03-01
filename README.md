@@ -96,7 +96,7 @@ The tool requires a file containing XSS payloads to test against the target URLs
 
 Here's an example of how to use the tool : 
 
-![videosample](https://via.placeholder.com/800x200.png?text=XSS+Vulnerability+Scanner)
+![videosample](https://github.com/mahaveer-choudhary/xss-scanner/blob/main/images/video%201.mp4)
 
 ---
 
@@ -109,7 +109,8 @@ The tool geneartes a detailed HTML report with the following information :
 
 here's a sample screenshot of the HTML report : 
 
-![html_report](https://via.placeholder.com/800x200.png?text=XSS+Vulnerability+Scanner)
+![html_report](https://github.com/mahaveer-choudhary/xss-scanner/blob/main/images/report%20ss%201.png)
+![html_report](https://github.com/mahaveer-choudhary/xss-scanner/blob/main/images/repot%20ss2.png)
 
 ---
 
